@@ -1,0 +1,13 @@
+{
+  "data": {
+    "type": "node--article",
+    "attributes": {
+      "title": "My custom title 4",
+      "body": {
+        "value": "Custom value",
+        "format": "plain_text"
+      },
+      "field_chaos_id": 4
+    }
+  }
+}
