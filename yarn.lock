@@ -5375,10 +5375,10 @@ gatsby-recipes@^0.25.0-next.2:
     xstate "^4.9.1"
     yoga-layout-prebuilt "^1.9.6"
 
-gatsby-source-drupal@^4.14.0-drupal-next.29:
-  version "4.14.0-drupal-next.29"
-  resolved "https://registry.yarnpkg.com/gatsby-source-drupal/-/gatsby-source-drupal-4.14.0-drupal-next.29.tgz#ae66682ef25c86cef7ac702ff1308250da5ce95a"
-  integrity sha512-m7nWecQV00xjCm4MQWvkAj6WP+wvfSTeTz99U+cB4rnrVluzqEPRmz9VwcgwSfLz0v7Inf6vLTbqetsStgMc4Q==
+gatsby-source-drupal@^4.14.0-drupal-next.30:
+  version "4.14.0-drupal-next.30"
+  resolved "https://registry.yarnpkg.com/gatsby-source-drupal/-/gatsby-source-drupal-4.14.0-drupal-next.30.tgz#5ae9984835b87f7637a18d568ae648f10b85e1e5"
+  integrity sha512-nXk8XTVMB1r+cd/trgB7h36UGNPGqCiTLAU4DbbwKvlPZahnRpg8PxC7Rytnu8exgQUGDyJmSBoFhq0xu99UpA==
   dependencies:
     "@babel/runtime" "^7.15.4"
     "@opentelemetry/semantic-conventions" "0.24.0"
