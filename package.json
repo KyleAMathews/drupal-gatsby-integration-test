@@ -25,6 +25,7 @@
     "gatsby": "^3.14.0-drupal-next.17",
     "gatsby-source-drupal": "^4.14.0-drupal-next.29",
     "got": "^11.8.2",
+    "lmdb-store": "^1.6.8",
     "opentracing": "^0.14.5",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
