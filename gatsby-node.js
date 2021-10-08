@@ -15,6 +15,7 @@ exports.createPages = async function ({ graphql, actions }) {
     `
   )
   const articleComponent = path.resolve(`./src/templates/article-component.js`)
+  console.log(`articles length`, data.data.allNodeArticle.nodes.length)
   data.data.allNodeArticle.nodes.forEach((node, i) => {
     createPage({
       path: `/${node.field_chaos_id}`,
