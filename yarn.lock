@@ -5441,10 +5441,10 @@ gatsby-worker@0.5.0-next.2:
     "@babel/core" "^7.15.5"
     "@babel/runtime" "^7.15.4"
 
-gatsby@^3.14.0-drupal-next.39:
-  version "3.14.0-drupal-next.39"
-  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-3.14.0-drupal-next.39.tgz#1ccb188689d05afbb7004dbb12580d68bee94b60"
-  integrity sha512-a66vM+f/slXaM1oHc8OXZzvLhuhiLFigR5nMBUiz2Qz7niDeDXpGyA097imeMoGRoVZkqHi4cUje4JL5E/5S8g==
+gatsby@^3.14.0-drupal-next.41:
+  version "3.14.0-drupal-next.41"
+  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-3.14.0-drupal-next.41.tgz#3ccc4cb3d1d65cc0372dec956cbf0f6e21aca8ea"
+  integrity sha512-V4++wRtpsxU1w0Du8zuti0e3UUY9BrtP4GEmXIbkI6yLnBfLaJ5x9Zs0edH+ooQ37aQqt6EFU5POsqitKVAzZg==
   dependencies:
     "@babel/code-frame" "^7.14.0"
     "@babel/core" "^7.15.5"
