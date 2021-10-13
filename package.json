@@ -22,7 +22,7 @@
     "@opentelemetry/sdk-node": "^0.24.0",
     "@opentelemetry/shim-opentracing": "^0.24.0",
     "drupal-jsonapi-client": "^3.1.0",
-    "gatsby": "^3.14.0-drupal-next.46",
+    "gatsby": "^3.14.0-drupal-next.47",
     "gatsby-source-drupal": "^4.14.0-drupal-next.50",
     "got": "^11.8.2",
     "lmdb-store": "^1.6.8",
