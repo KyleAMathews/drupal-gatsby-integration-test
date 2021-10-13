@@ -3054,6 +3054,11 @@ boolbase@^1.0.0:
   resolved "https://registry.yarnpkg.com/boolbase/-/boolbase-1.0.0.tgz#68dff5fbe60c51eb37725ea9e3ed310dcc1e776e"
   integrity sha1-aN/1++YMUes3cl6p4+0xDcwed24=
 
+bottleneck@^2.19.5:
+  version "2.19.5"
+  resolved "https://registry.yarnpkg.com/bottleneck/-/bottleneck-2.19.5.tgz#5df0b90f59fd47656ebe63c78a98419205cadd91"
+  integrity sha512-VHiNCbI1lKdl44tGrhNfU3lup0Tj/ZBMJB5/2ZbNXRCPuRCO7ed2mgcK4r17y+KB2EfuYuRaVlwNbAeaWGSpbw==
+
 boxen@^4.2.0:
   version "4.2.0"
   resolved "https://registry.yarnpkg.com/boxen/-/boxen-4.2.0.tgz#e411b62357d6d6d36587c8ac3d5d974daa070e64"
@@ -5375,10 +5380,10 @@ gatsby-recipes@^0.25.0-next.2:
     xstate "^4.9.1"
     yoga-layout-prebuilt "^1.9.6"
 
-gatsby-source-drupal@^4.14.0-drupal-next.42:
-  version "4.14.0-drupal-next.42"
-  resolved "https://registry.yarnpkg.com/gatsby-source-drupal/-/gatsby-source-drupal-4.14.0-drupal-next.42.tgz#35a3e25ddb10b5c66b354aac2baf4a0856b0ef19"
-  integrity sha512-MmoOsBz+LjW7YYtUPXMwuQwrHkGf6WKDKnh3+Lr7Pquc6HSnYAJokfLVpgJC8tpZzUeFU8KClemX3G2noSvEXg==
+gatsby-source-drupal@^4.14.0-drupal-next.50:
+  version "4.14.0-drupal-next.50"
+  resolved "https://registry.yarnpkg.com/gatsby-source-drupal/-/gatsby-source-drupal-4.14.0-drupal-next.50.tgz#1ca6688e8fd30304ce102a8a51c803934713349d"
+  integrity sha512-UpHenpBVrpepsmQ7Zb468N5GsojFLoIKN6Zh5bHw1AFUJb/yPbZEqrpGFB8UcDheZJtoUuYb+yGyBq/m6b8U9Q==
   dependencies:
     "@babel/runtime" "^7.15.4"
     "@opentelemetry/semantic-conventions" "0.24.0"
@@ -5441,10 +5446,10 @@ gatsby-worker@0.5.0-next.2:
     "@babel/core" "^7.15.5"
     "@babel/runtime" "^7.15.4"
 
-gatsby@^3.14.0-drupal-next.41:
-  version "3.14.0-drupal-next.41"
-  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-3.14.0-drupal-next.41.tgz#3ccc4cb3d1d65cc0372dec956cbf0f6e21aca8ea"
-  integrity sha512-V4++wRtpsxU1w0Du8zuti0e3UUY9BrtP4GEmXIbkI6yLnBfLaJ5x9Zs0edH+ooQ37aQqt6EFU5POsqitKVAzZg==
+gatsby@^3.14.0-drupal-next.46:
+  version "3.14.0-drupal-next.46"
+  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-3.14.0-drupal-next.46.tgz#864ef6d1b4760aeaf87e94c5d78aeaf3bdf8bcd9"
+  integrity sha512-Uh9p9pn9EBi48p9GORkZmiWbcz0XCxUUplm8Il+P4heF9OL3m/NqgJbeNquz06/pKkLpSqZ4qkHiqEhTo/i/9A==
   dependencies:
     "@babel/code-frame" "^7.14.0"
     "@babel/core" "^7.15.5"
@@ -5475,6 +5480,7 @@ gatsby@^3.14.0-drupal-next.41:
     better-opn "^2.0.0"
     bluebird "^3.7.2"
     body-parser "^1.19.0"
+    bottleneck "^2.19.5"
     browserslist "^4.12.2"
     cache-manager "^2.11.1"
     chalk "^4.1.2"
