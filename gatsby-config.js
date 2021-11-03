@@ -1,3 +1,4 @@
+console.log(process.env)
 module.exports = {
   flags: {
     DEV_SSR: true,
