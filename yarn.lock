@@ -4813,10 +4813,10 @@ gatsby-recipes@^0.25.0-next.2:
     xstate "^4.9.1"
     yoga-layout-prebuilt "^1.9.6"
 
-gatsby-source-drupal@^4.14.0-drupal-next.68:
-  version "4.14.0-drupal-next.68"
-  resolved "https://registry.yarnpkg.com/gatsby-source-drupal/-/gatsby-source-drupal-4.14.0-drupal-next.68.tgz#4fb267228bcb45394a7965158a36f4f80b85bcac"
-  integrity sha512-vb+yPLJhpyyQNzvU/oKm1Tbj9/MOxcJiBrlVscrF3CHdF8dm3bx0WGRSWnkAbHHecwRAf3KC7C1zLonLPi3rMg==
+gatsby-source-drupal@^4.14.0-drupal-next.80:
+  version "4.14.0-drupal-next.80"
+  resolved "https://registry.yarnpkg.com/gatsby-source-drupal/-/gatsby-source-drupal-4.14.0-drupal-next.80.tgz#63a468cd0e0f1d2240e0f1a14424b06399aaa71c"
+  integrity sha512-rzJM9rlkBMf3GHZFfT4kG3J4iqEyO80JbuUDqJOzj8+BIRNQDJDrjyIG2HbqSgBCeriq1NluKv+A44wcP8d2Eg==
   dependencies:
     "@babel/runtime" "^7.15.4"
     "@opentelemetry/semantic-conventions" "0.24.0"
@@ -4879,10 +4879,10 @@ gatsby-worker@0.5.0-next.2:
     "@babel/core" "^7.15.5"
     "@babel/runtime" "^7.15.4"
 
-gatsby@^3.14.0-drupal-next.70:
-  version "3.14.0-drupal-next.70"
-  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-3.14.0-drupal-next.70.tgz#9c965d87aec30e6889a4caf4469d6940c72cc11e"
-  integrity sha512-8QFVJ0HRwSXhJJwPCj1IIrkkoVkRTAuDDaa8nsENFGz3Qpxqe7xJpiBGlEqapMSVFkj5LL44zxk8NhoSuVjOAA==
+gatsby@^3.14.0-drupal-next.80:
+  version "3.14.0-drupal-next.80"
+  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-3.14.0-drupal-next.80.tgz#a78e5be23ba8958df3acc7130bab16aaf5b8069d"
+  integrity sha512-pITukkLrQ6oRwLSWCQto/erupkPTxhOPLwhxZ3rxQXiXIhIGC17z/VWHt3ITtrCigbbC4qrodivIL0mZIxNiMA==
   dependencies:
     "@babel/code-frame" "^7.14.0"
     "@babel/core" "^7.15.5"
