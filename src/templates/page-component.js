@@ -5,7 +5,7 @@ export default function PageComponent(props) {
   return (
     <div>
       <div id="title">{props.data.nodePage.title}</div>
-      <div>{props.data.nodePage.body.processed}</div>
+      <div>{props.data.nodePage.body?.processed}</div>
     </div>
   )
 }
