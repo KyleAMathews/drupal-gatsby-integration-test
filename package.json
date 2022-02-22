@@ -19,6 +19,7 @@
     "@opentelemetry/semantic-conventions": "^1.0.1",
     "drupal-jsonapi-client": "^3.1.0",
     "gatsby": "^4.7.2",
+    "gatsby-plugin-gatsby-cloud": "^4.7.0",
     "gatsby-source-drupal": "^5.7.0",
     "got": "^11.8.2",
     "lmdb-store": "^1.6.14",
