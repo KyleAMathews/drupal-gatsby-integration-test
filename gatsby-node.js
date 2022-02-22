@@ -40,7 +40,7 @@ exports.createPages = async function ({ graphql, actions }) {
     createPage({
       path: `/page/${node.id}`,
       component: pageComponent,
-      context: { id: node.id, random: Math.random() },
+      context: { id: node.id },
     })
   })
 }
